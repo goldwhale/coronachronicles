@@ -1,0 +1,16 @@
+input[type=text] {
+   width: 400px;
+}
+input[id=from] {
+  width: 100px;
+}
+
+body {
+  background-color: #ECCB49; 
+  text-align: center;
+  font-family: "Courier New"
+}
+
+p{
+  text-align: left;
+}
